@@ -1,0 +1,9 @@
+{
+    "name": "lukehsu/package01",
+    "autoload": {
+        "psr-4": {
+            "Lukehsu\\Package01\\": "src/"
+        }
+    },
+    "require": {}
+}
