@@ -1,6 +1,6 @@
 {
-    "name": "louissu/composer-practice",
-    "description": "composer-practice is a package which I use to practice",
+    "name": "lukehsu/package01",
+    "description": "package01 is a package which I use to practice",
     "type": "library",
     "require": {
         "php": "^7.3 || ^8.0"
@@ -11,14 +11,14 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Louis.Su",
-            "email": "i0989872540@gmail.com"
+            "name": "Luke",
+            "email": "h6106600@gmail.com"
         }
     ],
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Louis\\": "src/test"
+            "Luke\\": "src/test"
         }
     }
 }
