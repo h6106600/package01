@@ -1,4 +1,4 @@
 <?php
 require "vendor/autoload.php";
-$test = new Luke\Test();
+$test = new Louis\Test();
 $test->test();
