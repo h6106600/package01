@@ -1,6 +1,6 @@
 {
-    "name": "lukehsu/composer-practice1",
-    "description": "composer-practice1 is a package which I use to practice",
+    "name": "lukehsu/package01",
+    "description": "package01 is a package which I use to practice",
     "type": "library",
     "require": {
         "php": "^7.3 || ^8.0"
